@@ -8,4 +8,4 @@
 и минимальной высотой ограничивающих эту ячейку стенок.<br>
 
 
-![схема](https://user-images.githubusercontent.com/73248854/153816163-796f81cc-91be-4c06-a6f5-fae68ab4433b.png)
+![схема](https://user-images.githubusercontent.com/73248854/153821331-d88f7453-2d8f-4d24-ac97-d6b1ab579297.png)
